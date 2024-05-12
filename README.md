@@ -1,5 +1,6 @@
-  <h1>Hi 👋 there, I'm wiltord Ichingwa.</h1>        <br/>
-🦋I'm  embarking on a journey into the captivating realm of computer science.<br/>
+<h1>**Hi 👋 there, I'm wiltord Ichingwa.**</h1><br/>
+🦋I'm  embarking on a journey into the captivating realm of computer science.
+<br/>
 
 🔐I'm dedicated to learn cyber security and to mastering the intricacies of protecting digital systems and data from unauthorized access and malicious attacks.<br/>
 
