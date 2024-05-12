@@ -1,7 +1,9 @@
-  Hi 👋 there, I'm wiltord<br/>
-🦋Embarking on a journey into the captivating realm of computer science.<br/>
+&nbsp;Hi 👋 there, I'm wiltord&nbsp;<br/>
+🦋I'm  embarking on a journey into the captivating realm of computer science.<br/>
+
 🔐I'm dedicated to learn cyber security and to mastering the intricacies of protecting digital systems and data from unauthorized access and malicious attacks.<br/>
-🍁By learning software development, it will drive me to create innovative solutions in the tech community. 
+
+🍁Learning software development, it will drive me to create innovative solutions in the tech community. 
 <br/>
 
 📉 GitHub Stats
