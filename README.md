@@ -1,13 +1,13 @@
-Hi 👋I'm wiltord 
-🧑‍💻Studying computer science<br/>
-🔐Currently learning about being a cyber security analyst<br/>
-💻Software developer
+  Hi 👋 there, I'm wiltord<br/>
+🦋Embarking on a journey into the captivating realm of computer science.<br/>
+🔐I'm dedicated to learn cyber security and to mastering the intricacies of protecting digital systems and data from unauthorized access and malicious attacks.<br/>
+🍁By learning software development, it will drive me to create innovative solutions in the tech community. 
 <br/>
 
-📊 GitHub Stats
+📉 GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Wiltord-Ichingwa&theme=transparent&show_icons=true)<br/>
 
-🌐 Socials<br/>
+🌐 Connect with me<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Willy_havertz )  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Wiltord)    [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@shon_havertz) 
 <br/>
 
