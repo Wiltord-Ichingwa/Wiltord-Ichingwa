@@ -1,4 +1,5 @@
-&nbsp;Hi 👋 there, I'm wiltord&nbsp;<br/>
+  &nbsp;<h1>Hi 👋 there, I'm wiltord</h1>&nbsp;<br/>
+
 🦋I'm  embarking on a journey into the captivating realm of computer science.<br/>
 
 🔐I'm dedicated to learn cyber security and to mastering the intricacies of protecting digital systems and data from unauthorized access and malicious attacks.<br/>
@@ -6,7 +7,7 @@
 🍁Learning software development, it will drive me to create innovative solutions in the tech community. 
 <br/>
 
-📉 GitHub Stats
+📉 <h1>Stats</h1>
 ![My stats](https://github-readme-stats.vercel.app/api?username=Wiltord-Ichingwa&theme=transparent&show_icons=true)<br/>
 
 🌐 Connect with me<br/>
