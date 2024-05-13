@@ -1,8 +1,7 @@
 <h1>Hi 👋 there, I'm wiltord Ichingwa.</h1><br/>
-🦋I'm  embarking on a journey into the captivating realm of <bold>computer science</bold>.
+🦋I'm  embarking on a journey into the captivating realm of computer science.
 <br/>
-
-
+<br/>
 🔐I'm dedicated to learn cyber security and to mastering the intricacies of protecting digital systems and data from unauthorized access and malicious attacks.<br/>
 
 🍁Learning software development, it will drive me to create innovative solutions in the tech community. 
