@@ -28,7 +28,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Wiltord-Ichingwa&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 <br/>
-✍<h1>*Random Dev Quote*</h1>
+<br/>
+✍*Random Dev Quote*
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
