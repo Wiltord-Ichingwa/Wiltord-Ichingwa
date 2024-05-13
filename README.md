@@ -3,8 +3,9 @@
 <br/>
 <br/>
 🔐I'm dedicated to learn cyber security and to mastering the intricacies of protecting digital systems and data from unauthorized access and malicious attacks.<br/>
-
+<br/>
 🍁Learning software development, it will drive me to create innovative solutions in the tech community. 
+<br/>
 <br/>
 <h1>📉 Stats</h1>
 
@@ -27,7 +28,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Wiltord-Ichingwa&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-✍️ <h1>*Random Dev Quote*</h1>
+<h1>✍️ *Random Dev Quote*</h1>
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
