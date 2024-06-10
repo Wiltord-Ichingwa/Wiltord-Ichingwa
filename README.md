@@ -4,7 +4,7 @@
 <br/>
 🔐I'm dedicated to learn cyber security and to mastering the intricacies of protecting digital systems and data from unauthorized access and malicious attacks.<br/>
 <br/>
-🍁Learning software development, it will drive me to create innovative solutions in the tech community. 
+🍁Learning software development, it will embark me on a journey to create innovative solutions in the tech community. 
 <br/>
 <br/>
 <h1>📉 Stats</h1>
